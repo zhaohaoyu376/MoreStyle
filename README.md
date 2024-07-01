@@ -13,8 +13,8 @@ The task of single-source domain generalization (SDG) in medical image segmentat
 
 - Clone this repo:
 ```bash
-git clone https://github.com/zhaohaoyu376/morestyle
-cd morestyle
+git clone https://github.com/zhaohaoyu376/MoreStyle
+cd MoreStyle
 ```
 
 - Install [PyTorch](http://pytorch.org) and other dependencies (e.g., torchvision, [visdom](https://github.com/facebookresearch/visdom) and [dominate](https://github.com/Knio/dominate)).
